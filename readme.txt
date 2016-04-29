@@ -6,3 +6,4 @@ GitHub is in use!
 Creating a new branch is quick and simple.
 Add merge without fast-forward.
 Developing finished.
+All things done.
